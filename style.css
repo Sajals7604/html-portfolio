@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    font-size: 4rem;
+    text-transform:uppercase;
+}
+.image {
+    width: 60%;
+    margin-left: 20%;
+    margin-top:20;
+    text-align: center;
+
+}
+.MensBestfriendImage {
+ border: 10px solid yellowgreen;
+ width: 100%;
+}
+body {
+    background-color: burlywood;
+}
+h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+.puppy{
+    width: 60%;
+    margin-left: 20%;
+    margin-top:20;
+    text-align: center;
+}
+.doghug {
+    border: 10px solid yellowgreen;
+    width: 100%;
+}
